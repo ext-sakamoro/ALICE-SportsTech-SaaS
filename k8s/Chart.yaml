@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_SPORTSTECH
+name: alice-sportstech
 description: ALICE SportsTech
 type: application
 version: 0.1.0
